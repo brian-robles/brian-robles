@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **C#/.NET/ASP.NET or Blazor or Umbraco projects which are based on C# stack and Ruby or Ruby on Rails projects**
 
-- 💬 Ask me about **C#, .NET framework, ASP.NET, Microsoft Azure, PHP, MS SQL, Ruby, Ruby on Rails, PostgreSQL and Vue or Angular**
+- 💬 Ask me about **C#, .NET framework, ASP.NET, Microsoft Azure, PHP/Nodejs, MS SQL, Ruby, Ruby on Rails, PostgreSQL and Vue or Angular**
 
 - 📫 How to reach me **brian.robles@outlook.com**
 

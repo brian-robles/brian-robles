@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Brian Robles, specialize in C#/ASP.NET/.NET and Rub/Ruby on Rails with Microsoft Azure certifications for back-end stack, and React/Angular to build a web app front-end. I also have experience in React Natvie/Flutter and also Maui framework for the mobile app
+<h2 align="center">Hi 👋, I'm Brian Robles, specialize in C#/ASP.NET/.NET and Rub/Ruby on Rails with Microsoft Azure certifications for back-end stack, and React/Angular to build a web app front-end. I also have experience in React Natvie/Flutter and also Maui framework for the mobile app </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-robles&label=Profile%20views&color=0e75b6&style=flat" alt="brian-robles" /> </p>
 

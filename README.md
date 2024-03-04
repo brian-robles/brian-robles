@@ -1,12 +1,12 @@
-<h2 align="center">Hi 👋, I'm Brian Robles, specialize in C#/ASP.NET/.NET and Rub/Ruby on Rails with Microsoft Azure certifications for back-end stack, and React/Angular to build a web app front-end. I also have experience in React Natvie/Flutter and also Maui framework for the mobile app </h2>
+<h2 align="center">Hi 👋, I'm Brian Robles, full-stack software engineer with over 9 years of experience in software engineering for the web, desktop app and buiness automation/ETL process development </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-robles&label=Profile%20views&color=0e75b6&style=flat" alt="brian-robles" /> </p>
 
-- 🔭 I’m currently working on **ERP solution to visualize the Geo data via ArcGIS map services and was using C#/.NET frameworks with React/TypeScript to integrate the ArCGIS SDK with .NET framework, and React Native(for mobile app of this project)**
+- 🔭 I’m currently working on **SAAS solution to visualize the Geo data via ArcGIS map services and was using C#/.NET frameworks with React/TypeScript to integrate the ArCGIS SDK with Python/Django(for importing the data layers from Arcgis to the exiting app, and also for internal dashboard), and React Native(for mobile app of this project)**
 
-- 👯 I’m looking to collaborate on **C#/.NET/ASP.NET or Blazor or Umbraco projects which are based on C# stack and Ruby or Ruby on Rails projects or React Native/Flutter or Maui framwork for the mobile app development**
+- 👯 I’m looking to collaborate on **C#/.NET/ASP.NET or Blazor or Umbraco projects which are based on C# stack and Ruby on Rails or Python/Django projects**
 
-- 💬 Ask me about **C#, .NET framework, ASP.NET, Microsoft Azure, PHP/Nodejs, MS SQL, Ruby, Ruby on Rails, PostgreSQL and React/React  Native or Angular and Flutter**
+- 💬 Ask me about **C#, .NET framework, ASP.NET, Microsoft Azure, Python/Django or Flask, AWS, MS SQL, Ruby, Ruby on Rails, PostgreSQL and React/Angular**
 
 - 📫 How to reach me **brian.robles@outlook.com**
 
